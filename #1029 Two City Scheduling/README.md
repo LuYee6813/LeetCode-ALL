@@ -1,2 +1,2 @@
 # LeetCode[#1029] Two City Scheduling
-### 題目難度：Easy 1
+### 題目難度：Easy 
