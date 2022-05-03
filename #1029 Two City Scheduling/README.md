@@ -1,6 +1,5 @@
 # LeetCode[#1029] Two City Scheduling
 ### 題目難度：Medium
-
 題目敘述：
 ```
 Example 1:
