@@ -8,4 +8,4 @@ void reverseString(char* s, int sSize){
         s[i] = s[j];
         s[j] = t;
     }
-}
+} 
