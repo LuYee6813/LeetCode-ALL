@@ -4,9 +4,7 @@ class Solution:
         min = salary[0]
         c = 0
         for i in salary:
-            if (i > max):
-                max = i                
-            if (i < min):
-                min = i
+            max = i if i > max else max
+            min = i if i < min else min   
             c+=i
         return (c-min-max) / (len(salary)-2)
